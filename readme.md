@@ -4,6 +4,7 @@ Game to beat the clock by typing random words
 
 ## Project Specifications
 
+- Use the api https://www.randomlists.com/data/words.json
 - Create game UI including a difficuly setting
 - Generate random word and place in DOM
 - Score increase after word is typed
